@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My name is Elena! 
+
+I currently work in marketing and work on various data projects.
+
+💻 Skills: SQL, Python, and Tableau
 
 
-MY name is Elena
 <!--
 **elena2/elena2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
