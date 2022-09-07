@@ -1,6 +1,6 @@
-### Hi there 👋 My name is Elena! 
+### Hi there  👋  My name is Elena! 
 
-I currently work in marketing and work on various data projects.
+I currently work in marketing and also work on various data projects.
 
 💻 Skills: SQL, Python, and Tableau
 
