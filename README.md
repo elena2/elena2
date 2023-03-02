@@ -1,8 +1,9 @@
 ### Hi there  👋  My name is Elena! 
 
-I currently work in marketing and also work on various data projects.
+I am a professional who is passionate about data analytics, problem-solving, and marketing. Aside from doing analytics at work, I work on various data analytics projects.
 
-💻 Skills: SQL, Python, and Tableau
+💻 Skills: SQL, Python, Statistics, and Tableau
+
 
 
 <!--
